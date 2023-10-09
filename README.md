@@ -375,7 +375,7 @@ docker-compose --version
 （1）通过 git 拉取源码
 
 ```bash
-git clone https://github.com/huasenjio/huasenjio-compose.git
+git clone https://github.com/itq5/huasenjio-compose.git
 ```
 
 （2）进入 huasenjio-compose 目录
